@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KDigvijay01
-- 👀 I’m interested in software developer
-- 🌱 I’m currently learning.
+- 👀 I’m interested in software developement
+- 🌱 Developer at Sensegrass.
 - 📫 contact me 9955775882.
 
 <!---
